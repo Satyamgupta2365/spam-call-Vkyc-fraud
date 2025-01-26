@@ -117,11 +117,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For questions or feedback, please contact:
-- Name: Your Name
-- Email: your.email@example.com
-- GitHub: [Your GitHub](https://github.com/yourusername)
-
----
+- Name: Satym Gupta
 
 ### **Disclaimer**
 Ensure compliance with data privacy regulations such as GDPR when handling customer data.
